@@ -13,6 +13,6 @@ See test/input.csv -> test/expected.csv.
 mix escript.build
 
 # Run
-./csv_spread  input.csv  # prints to stdout
-./csv_spread  input.csv  output.csv  # prints number of lines written
+./csv_spread input.csv  # prints to stdout
+./csv_spread input.csv output.csv  # prints number of lines written
 ```
